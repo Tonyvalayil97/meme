@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-text-splitters
+pymupdf
+ollama
+faiss-cpu
